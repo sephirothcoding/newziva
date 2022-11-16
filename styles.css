@@ -1,0 +1,5 @@
+ul li{position: relative}; (to main parent li tag)
+ul li ul{position: absolute
+top: 0;
+left: 100%;
+display: none};
